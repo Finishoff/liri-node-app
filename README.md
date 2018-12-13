@@ -9,7 +9,8 @@
     and movie information.
 
 ## How to get started?
--IMPORTANT- You will need to include your own .env for Twitter/Spotify usage.
+*IMPORTANT- You will need to include your own .env for Twitter/Spotify usage.
+
     * The following commands can be used:
     1. node liri.js my-tweets 
     2. node liri.js spotify-this-song "insert song name here"
